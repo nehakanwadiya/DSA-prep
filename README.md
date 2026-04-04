@@ -33,7 +33,7 @@ Every file includes:
 
 | Topic          | Problems Solved | Status      |
 |----------------|----------------|-------------|
-| Arrays         | 2              | In Progress |
+| Arrays         | 4              | In Progress |
 | Strings        | 0              | Upcoming    |
 | Linked Lists   | 0              | Upcoming    |
 | Recursion      | 0              | Upcoming    |
@@ -44,7 +44,7 @@ Every file includes:
 
 ## Patterns Covered So Far
 
-`Brute Force` `HashMap` 
+`Brute Force` `HashMap` `Two Pointer`
 
 ---
 
