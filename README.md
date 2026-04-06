@@ -33,7 +33,7 @@ Every file includes:
 
 | Topic          | Problems Solved | Status      |
 |----------------|----------------|-------------|
-| Arrays         | 9              | In Progress |
+| Arrays         | 11              | In Progress |
 | Strings        | 0              | Upcoming    |
 | Linked Lists   | 0              | Upcoming    |
 | Recursion      | 0              | Upcoming    |
