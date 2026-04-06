@@ -33,7 +33,7 @@ Every file includes:
 
 | Topic          | Problems Solved | Status      |
 |----------------|----------------|-------------|
-| Arrays         | 8              | In Progress |
+| Arrays         | 9              | In Progress |
 | Strings        | 0              | Upcoming    |
 | Linked Lists   | 0              | Upcoming    |
 | Recursion      | 0              | Upcoming    |
@@ -44,7 +44,7 @@ Every file includes:
 
 ## Patterns Covered So Far
 
-`Brute Force` `HashMap` `Two Pointer` `Soring` `Kadane's Algorithm` `HashSet` `Sliding Window` `Binary Search` `Greedy + Running Minimum`
+`Brute Force` `HashMap` `Two Pointer` `Soring` `Kadane's Algorithm` `HashSet` `Sliding Window` `Binary Search` `Greedy + Running Minimum` `Kadane's Variant (Track max and min both)`
 
 ---
 
