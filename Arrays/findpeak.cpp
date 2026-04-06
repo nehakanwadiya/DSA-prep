@@ -3,7 +3,6 @@
 // Time: O(log n) | Space: O(1)
 // Note: Compare mid with mid+1 to determine which side of mountain you're on
 
-
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
