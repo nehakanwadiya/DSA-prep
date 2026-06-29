@@ -63,16 +63,3 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nehakanwadiya/DSA-prep/tree/master/0042-trapping-rain-water) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/nehakanwadiya/DSA-prep/tree/master/0042-trapping-rain-water) |
-## Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/nehakanwadiya/DSA-prep/tree/master/0042-trapping-rain-water) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/nehakanwadiya/DSA-prep/tree/master/0042-trapping-rain-water) |
-<!---LeetCode Topics End-->
