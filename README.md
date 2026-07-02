@@ -60,6 +60,7 @@ Building projects at the intersection of full-stack and AI.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nehakanwadiya/DSA-prep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nehakanwadiya/DSA-prep/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nehakanwadiya/DSA-prep/tree/master/0643-maximum-average-subarray-i) |
 | [1046-last-stone-weight](https://github.com/nehakanwadiya/DSA-prep/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nehakanwadiya/DSA-prep/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -78,6 +79,7 @@ Building projects at the intersection of full-stack and AI.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nehakanwadiya/DSA-prep/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -108,12 +110,17 @@ Building projects at the intersection of full-stack and AI.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nehakanwadiya/DSA-prep/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nehakanwadiya/DSA-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nehakanwadiya/DSA-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->a
 
 Structured solutions to Data Structures & Algorithms problems.
