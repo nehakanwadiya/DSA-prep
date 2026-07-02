@@ -60,6 +60,7 @@ Building projects at the intersection of full-stack and AI.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nehakanwadiya/DSA-prep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nehakanwadiya/DSA-prep/tree/master/0053-maximum-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/nehakanwadiya/DSA-prep/tree/master/0643-maximum-average-subarray-i) |
 | [1046-last-stone-weight](https://github.com/nehakanwadiya/DSA-prep/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nehakanwadiya/DSA-prep/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Two Pointers
@@ -104,6 +105,10 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nehakanwadiya/DSA-prep/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/nehakanwadiya/DSA-prep/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->a
 
 Structured solutions to Data Structures & Algorithms problems.
