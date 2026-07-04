@@ -61,6 +61,7 @@ Building projects at the intersection of full-stack and AI.
 | [0042-trapping-rain-water](https://github.com/nehakanwadiya/DSA-prep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nehakanwadiya/DSA-prep/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/nehakanwadiya/DSA-prep/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nehakanwadiya/DSA-prep/tree/master/0643-maximum-average-subarray-i) |
 | [1046-last-stone-weight](https://github.com/nehakanwadiya/DSA-prep/tree/master/1046-last-stone-weight) |
@@ -132,10 +133,12 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nehakanwadiya/DSA-prep/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nehakanwadiya/DSA-prep/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->a
 
 Structured solutions to Data Structures & Algorithms problems.
