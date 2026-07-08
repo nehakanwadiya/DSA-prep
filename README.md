@@ -69,6 +69,7 @@ Building projects at the intersection of full-stack and AI.
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
 | [0643-maximum-average-subarray-i](https://github.com/nehakanwadiya/DSA-prep/tree/master/0643-maximum-average-subarray-i) |
 | [1046-last-stone-weight](https://github.com/nehakanwadiya/DSA-prep/tree/master/1046-last-stone-weight) |
+| [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nehakanwadiya/DSA-prep/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ Building projects at the intersection of full-stack and AI.
 | ------- |
 | [0053-maximum-subarray](https://github.com/nehakanwadiya/DSA-prep/tree/master/0053-maximum-subarray) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
+| [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
 ## Simulation
 |  |
 | ------- |
@@ -143,16 +145,19 @@ Building projects at the intersection of full-stack and AI.
 | [0078-subsets](https://github.com/nehakanwadiya/DSA-prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
+| [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nehakanwadiya/DSA-prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
+| [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
+| [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->a
 
 Structured solutions to Data Structures & Algorithms problems.
