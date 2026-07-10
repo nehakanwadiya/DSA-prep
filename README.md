@@ -68,6 +68,7 @@ Building projects at the intersection of full-stack and AI.
 | [0209-minimum-size-subarray-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
 | [0643-maximum-average-subarray-i](https://github.com/nehakanwadiya/DSA-prep/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/nehakanwadiya/DSA-prep/tree/master/1046-last-stone-weight) |
 | [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nehakanwadiya/DSA-prep/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -112,6 +113,7 @@ Building projects at the intersection of full-stack and AI.
 | [0053-maximum-subarray](https://github.com/nehakanwadiya/DSA-prep/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0070-climbing-stairs) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
+| [0746-min-cost-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0746-min-cost-climbing-stairs) |
 | [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
 ## Simulation
 |  |
