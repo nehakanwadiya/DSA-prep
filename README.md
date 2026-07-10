@@ -110,6 +110,7 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nehakanwadiya/DSA-prep/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0070-climbing-stairs) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
 | [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
 ## Simulation
@@ -158,6 +159,14 @@ Building projects at the intersection of full-stack and AI.
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
 | [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->a
 
 Structured solutions to Data Structures & Algorithms problems.
