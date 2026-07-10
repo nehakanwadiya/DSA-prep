@@ -114,6 +114,7 @@ Building projects at the intersection of full-stack and AI.
 | [0070-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0070-climbing-stairs) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
 | [0746-min-cost-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/nehakanwadiya/DSA-prep/tree/master/1137-n-th-tribonacci-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
 ## Simulation
 |  |
@@ -165,10 +166,12 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/nehakanwadiya/DSA-prep/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/nehakanwadiya/DSA-prep/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->a
 
 Structured solutions to Data Structures & Algorithms problems.
