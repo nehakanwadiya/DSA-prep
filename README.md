@@ -67,6 +67,7 @@ Building projects at the intersection of full-stack and AI.
 | [0090-subsets-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/nehakanwadiya/DSA-prep/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0213-house-robber-ii) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
 | [0643-maximum-average-subarray-i](https://github.com/nehakanwadiya/DSA-prep/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0746-min-cost-climbing-stairs) |
@@ -114,6 +115,7 @@ Building projects at the intersection of full-stack and AI.
 | [0053-maximum-subarray](https://github.com/nehakanwadiya/DSA-prep/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nehakanwadiya/DSA-prep/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0213-house-robber-ii) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
 | [0746-min-cost-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/nehakanwadiya/DSA-prep/tree/master/1137-n-th-tribonacci-number) |
