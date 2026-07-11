@@ -70,6 +70,7 @@ Building projects at the intersection of full-stack and AI.
 | [0213-house-robber-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0213-house-robber-ii) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
 | [0643-maximum-average-subarray-i](https://github.com/nehakanwadiya/DSA-prep/tree/master/0643-maximum-average-subarray-i) |
+| [0740-delete-and-earn](https://github.com/nehakanwadiya/DSA-prep/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/nehakanwadiya/DSA-prep/tree/master/1046-last-stone-weight) |
 | [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
@@ -117,6 +118,7 @@ Building projects at the intersection of full-stack and AI.
 | [0198-house-robber](https://github.com/nehakanwadiya/DSA-prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0213-house-robber-ii) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
+| [0740-delete-and-earn](https://github.com/nehakanwadiya/DSA-prep/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/nehakanwadiya/DSA-prep/tree/master/1137-n-th-tribonacci-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
@@ -144,6 +146,7 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehakanwadiya/DSA-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0740-delete-and-earn](https://github.com/nehakanwadiya/DSA-prep/tree/master/0740-delete-and-earn) |
 ## Backtracking
 |  |
 | ------- |
