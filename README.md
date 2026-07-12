@@ -72,6 +72,7 @@ Building projects at the intersection of full-stack and AI.
 | [0643-maximum-average-subarray-i](https://github.com/nehakanwadiya/DSA-prep/tree/master/0643-maximum-average-subarray-i) |
 | [0740-delete-and-earn](https://github.com/nehakanwadiya/DSA-prep/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/nehakanwadiya/DSA-prep/tree/master/0860-lemonade-change) |
 | [1046-last-stone-weight](https://github.com/nehakanwadiya/DSA-prep/tree/master/1046-last-stone-weight) |
 | [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nehakanwadiya/DSA-prep/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -179,6 +180,10 @@ Building projects at the intersection of full-stack and AI.
 | ------- |
 | [0070-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/nehakanwadiya/DSA-prep/tree/master/1137-n-th-tribonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/nehakanwadiya/DSA-prep/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->a
 
 Structured solutions to Data Structures & Algorithms problems.
