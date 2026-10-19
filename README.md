@@ -83,6 +83,7 @@ Building projects at the intersection of full-stack and AI.
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nehakanwadiya/DSA-prep/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -103,6 +104,7 @@ Building projects at the intersection of full-stack and AI.
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nehakanwadiya/DSA-prep/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -118,6 +120,7 @@ Building projects at the intersection of full-stack and AI.
 | ------- |
 | [0053-maximum-subarray](https://github.com/nehakanwadiya/DSA-prep/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nehakanwadiya/DSA-prep/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/nehakanwadiya/DSA-prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0213-house-robber-ii) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
@@ -189,10 +192,12 @@ Building projects at the intersection of full-stack and AI.
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->a
 
