@@ -84,6 +84,7 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nehakanwadiya/DSA-prep/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
@@ -107,6 +108,7 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nehakanwadiya/DSA-prep/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
@@ -208,6 +210,7 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nehakanwadiya/DSA-prep/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->a
 
