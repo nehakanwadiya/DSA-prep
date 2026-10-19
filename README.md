@@ -85,6 +85,7 @@ Building projects at the intersection of full-stack and AI.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/nehakanwadiya/DSA-prep/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nehakanwadiya/DSA-prep/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -107,6 +108,7 @@ Building projects at the intersection of full-stack and AI.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/nehakanwadiya/DSA-prep/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nehakanwadiya/DSA-prep/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -195,6 +197,7 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/nehakanwadiya/DSA-prep/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -205,6 +208,7 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/nehakanwadiya/DSA-prep/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->a
 
 Structured solutions to Data Structures & Algorithms problems.
