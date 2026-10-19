@@ -83,6 +83,7 @@ Building projects at the intersection of full-stack and AI.
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nehakanwadiya/DSA-prep/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -104,6 +105,7 @@ Building projects at the intersection of full-stack and AI.
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nehakanwadiya/DSA-prep/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -199,6 +201,10 @@ Building projects at the intersection of full-stack and AI.
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->a
 
 Structured solutions to Data Structures & Algorithms problems.
