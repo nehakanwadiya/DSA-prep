@@ -62,6 +62,7 @@ Building projects at the intersection of full-stack and AI.
 | [0040-combination-sum-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nehakanwadiya/DSA-prep/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nehakanwadiya/DSA-prep/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/nehakanwadiya/DSA-prep/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/nehakanwadiya/DSA-prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0090-subsets-ii) |
@@ -165,6 +166,7 @@ Building projects at the intersection of full-stack and AI.
 | [0039-combination-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nehakanwadiya/DSA-prep/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nehakanwadiya/DSA-prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
@@ -212,6 +214,10 @@ Building projects at the intersection of full-stack and AI.
 | [0102-binary-tree-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nehakanwadiya/DSA-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nehakanwadiya/DSA-prep/tree/master/0199-binary-tree-right-side-view) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->a
 
 Structured solutions to Data Structures & Algorithms problems.
