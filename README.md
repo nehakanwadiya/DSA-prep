@@ -65,6 +65,7 @@ Building projects at the intersection of full-stack and AI.
 | [0047-permutations-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/nehakanwadiya/DSA-prep/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/nehakanwadiya/DSA-prep/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nehakanwadiya/DSA-prep/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/nehakanwadiya/DSA-prep/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0209-minimum-size-subarray-sum) |
@@ -150,6 +151,7 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehakanwadiya/DSA-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/nehakanwadiya/DSA-prep/tree/master/0079-word-search) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nehakanwadiya/DSA-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -168,6 +170,7 @@ Building projects at the intersection of full-stack and AI.
 | [0046-permutations](https://github.com/nehakanwadiya/DSA-prep/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nehakanwadiya/DSA-prep/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nehakanwadiya/DSA-prep/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/nehakanwadiya/DSA-prep/tree/master/0473-matchsticks-to-square) |
 | [2305-fair-distribution-of-cookies](https://github.com/nehakanwadiya/DSA-prep/tree/master/2305-fair-distribution-of-cookies) |
@@ -200,6 +203,7 @@ Building projects at the intersection of full-stack and AI.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nehakanwadiya/DSA-prep/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nehakanwadiya/DSA-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/nehakanwadiya/DSA-prep/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/nehakanwadiya/DSA-prep/tree/master/0543-diameter-of-binary-tree) |
@@ -218,6 +222,10 @@ Building projects at the intersection of full-stack and AI.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/nehakanwadiya/DSA-prep/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/nehakanwadiya/DSA-prep/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->a
 
 Structured solutions to Data Structures & Algorithms problems.
